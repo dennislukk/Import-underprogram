@@ -1,5 +1,0 @@
-Maskinnavn: DESKTOP-ENM4RF4
-OS-informasjon: Windows 10.0.22631
-Ledig diskplass: usage(total=255158382592, used=246200844288, free=8957538304)
-Brukernavn: bruker
-IP-adresse: 10.10.21.7
